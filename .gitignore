@@ -1,0 +1,5 @@
+data/
+create_notebook.py
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
